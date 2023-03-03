@@ -47,11 +47,11 @@ namespace DataValidation
     {
         static void Main(string[] args)
         {
-            Person person1 = new Person("troels", 24, "troels@t.dk");
-            Person person2 = new Person("", 24, "troels@t.dk");
-            Person person3 = new Person("troels", 124, "troels@t.dk");
-            Person person4 = new Person("troels", 24, "troelstdk");
-            Person person5 = new Person("", 124, "troelstdk");
+            Person person1 = new Person("john", 23, "john@j.dk");
+            Person person2 = new Person("", 23, "john@j.dk");
+            Person person3 = new Person("john", 123, "john@j.dk");
+            Person person4 = new Person("john", 23, "johnjdk");
+            Person person5 = new Person("", 123, "johnjdk");
 
             Console.WriteLine(Person.Validate(person1));
             Console.WriteLine(Person.Validate(person2));
