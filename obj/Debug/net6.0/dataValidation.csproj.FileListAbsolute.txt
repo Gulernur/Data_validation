@@ -1,0 +1,15 @@
+/Users/gulernurdonmez/visual studio/C#/dataValidation/bin/Debug/net6.0/dataValidation
+/Users/gulernurdonmez/visual studio/C#/dataValidation/bin/Debug/net6.0/dataValidation.deps.json
+/Users/gulernurdonmez/visual studio/C#/dataValidation/bin/Debug/net6.0/dataValidation.runtimeconfig.json
+/Users/gulernurdonmez/visual studio/C#/dataValidation/bin/Debug/net6.0/dataValidation.dll
+/Users/gulernurdonmez/visual studio/C#/dataValidation/bin/Debug/net6.0/dataValidation.pdb
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/dataValidation.csproj.AssemblyReference.cache
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/dataValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/dataValidation.AssemblyInfoInputs.cache
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/dataValidation.AssemblyInfo.cs
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/dataValidation.csproj.CoreCompileInputs.cache
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/dataValidation.dll
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/refint/dataValidation.dll
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/dataValidation.pdb
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/dataValidation.genruntimeconfig.cache
+/Users/gulernurdonmez/visual studio/C#/dataValidation/obj/Debug/net6.0/ref/dataValidation.dll
